@@ -1,0 +1,21 @@
+#info{
+
+	margin-left: 600px;
+
+}
+
+#simple{
+
+	margin-left: 600px;
+}
+
+#compte{
+
+	font-size: 40px;
+}
+#play{
+	display: inline-flex;
+	flex-direction: row;
+	justify-content: space-between;
+	text-align: center;
+}
